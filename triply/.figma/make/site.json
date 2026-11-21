@@ -1,0 +1,10 @@
+{
+  "description": "Triply is an AI-powered travel planning platform for Vietnamese travelers, enabling personalized itineraries, collaborative planning, and expense management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
